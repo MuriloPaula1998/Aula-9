@@ -1,0 +1,34 @@
+
+
+h1 {
+    font-family: Georgia;
+    color: rgb(255, 255, 255);
+    border: 5px;
+    border-radius: 5px;
+    border-color: black;
+}
+p{
+    font-family: 'Gill Sans';
+    color: green;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:gold;
+    font-size: 40px;
+    background-color: white;
+    margin-right: 1300px;
+     
+}
+.p1{
+    font-size: 60px;
+    
+    
+}
+#a1{
+    display: flex;
+    flex-direction: row ;
+
+
+}
+#alinhartexto{
+    text-align: left;
+   
+}
